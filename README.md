@@ -1,6 +1,7 @@
 #Telegram Exchange Rate Bot
 ___
 
+[![Build Status](https://travis-ci.com/Br0tBeNt/exchangeRatesTelegtamBot.svg?branch=main)](https://travis-ci.com/Br0tBeNt/exchangeRatesTelegtamBot)
 
 ####A simple to use telegram bot for searching currency rates from different sources.
 
